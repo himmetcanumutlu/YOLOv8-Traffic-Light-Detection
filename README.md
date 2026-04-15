@@ -1,5 +1,10 @@
 # YOLOv8 Traffic Light Detection 🚦
 
+
+## Note on Model Weights: Due to environment constraints and session limitations, the trained model weights (best.pt) are not included in this repository.
+How to run:
+To see the detection results, simply open the traffic-light-detection-yolov8.ipynb notebook in Google Colab, provide your Kaggle API credentials, and run the cells. The notebook is designed to handle the entire pipeline: from dataset downloading and preprocessing to training and real-time inference.
+
 ## Project Overview
 
 This project is a real-time traffic light detection and classification model designed to enhance the visual perception capabilities, which is one of the most critical components of autonomous driving systems. Developed as a term project for the Artificial Intelligence course at Sivas Cumhuriyet University, this study bridges theoretical machine learning concepts with practical computer vision applications to create a working product.
